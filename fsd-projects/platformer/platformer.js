@@ -43,9 +43,9 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
-    createCollectable("fishy", 375, 450); 
-    createCollectable("fishy", 800, 295);
-    createCollectable("fishy", 1250, 550);
+    createCollectable("database", 375, 450); 
+    createCollectable("database", 800, 295);
+    createCollectable("database", 1250, 550);
 
 
 
