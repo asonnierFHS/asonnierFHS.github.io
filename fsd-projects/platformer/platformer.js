@@ -31,12 +31,12 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
-    createPlatform(0, 625, 270, 35, "purple"); // purple for a finished platform
-    createPlatform(370, 500, 50, 250, "purple"); // purple for a finished platform
-    createPlatform(535, 450, 50, 300, "purple"); // purple for a finished platform
-    createPlatform(650, 345, 350, 35, "purple"); // purple for a finished platform
-    createPlatform(1030, 500, 50, 250, "purple"); // purple for a finished platform
-    createPlatform(1100, 600, 300, 35, "purple"); // purple for a finished platform
+    createPlatform(0, 625, 270, 35, "blue"); // purple for a finished platform
+    createPlatform(370, 500, 50, 250, "orange"); // purple for a finished platform
+    createPlatform(535, 450, 50, 300, "blue"); // purple for a finished platform
+    createPlatform(650, 345, 350, 35, "orange"); // purple for a finished platform
+    createPlatform(1030, 500, 50, 250, "blue"); // purple for a finished platform
+    createPlatform(1100, 600, 300, 35, "orange"); // purple for a finished platform
 
 
 
