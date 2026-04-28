@@ -89,7 +89,7 @@ var init = function (window) {
             }
             
             // TODO 6 : YOUR CODE STARTS HERE //////////////////////
-            if (circle.x -circle.radius > canvas.width) {
+            if (circle.x - circle.radius > canvas.width) {
                 circle.x = 0 - circle.radius;
             } if (circle.x + circle.radius < 0) {
                 circle.x = canvas.width + circle.radius;
