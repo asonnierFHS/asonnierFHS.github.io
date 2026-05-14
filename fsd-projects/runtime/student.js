@@ -1,6 +1,9 @@
 function moveScenery() {
   // TODO 2: Move background scenery based on current level speed
-}
+} var buildingInstance = 
+  moveScenery.building.instances[i];
+  var lampInstance = 
+  lamp.building.instances[i];
 
 function generateLevel() {
   // TODO 3: Generate the current level's game objects
